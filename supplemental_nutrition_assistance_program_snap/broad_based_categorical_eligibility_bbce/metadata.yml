@@ -1,0 +1,35 @@
+ -file: snap-bbce-states-oct2024.pdf
+  url: "https://www.fns.usda.gov/snap/broad-based-categorical-eligibility
+  retrieved_on: 2025-04-14
+  programs:
+    - broad_based_categorical_eligibility_bbce
+  effective_date: 2024-10-01
+  # Optional fields
+  description: "BBCE participating States for the year 2025"
+
+ -file: BBCE-States-Chart-Jan-2024.pdf
+  url: "https://www.fns.usda.gov/snap/broad-based-categorical-eligibility
+  retrieved_on: 2025-04-14
+  programs:
+    - broad_based_categorical_eligibility_bbce
+  effective_date: 2024-01-01
+  # Optional fields
+  description: "BBCE participating States for the year 2024"
+
+ -file: BBCE-States-Chart-(Jan-2023)-508-1.5.23.pdf
+  url: "https://www.fns.usda.gov/snap/broad-based-categorical-eligibility
+  retrieved_on: 2023-01-05
+  programs:
+    - broad_based_categorical_eligibility_bbce
+  effective_date: 2023-01-01
+  # Optional fields
+  description: "BBCE participating States for the year 2023"
+
+ -file: QandA-bbce-snap.pdf
+  url: https://fns-prod.azureedge.us/sites/default/files/resource-files/qanda-bbce-snap.pdf
+  retrieved_on: 2025-04-14
+  programs:
+    - broad_based_categorical_eligibility_bbce
+  effective_date: 2011-01-31
+  # Optional fields
+  description: "Questions and Answers on Broad-Based Categorical Eligibility 2011"
