@@ -1,0 +1,18 @@
+- file: 26_US_Code_§_24_child_tax_credit.pdf
+  url: "https://www.law.cornell.edu/uscode/text/26/24#i_4_C_i_II"
+  retrieved_on: 2025-04-14
+  programs:
+    - federal_income_tax
+    - ctc
+  effective_date: 
+  # Optional fields
+  description: ""
+- file: 2024_schedule_8812_form_1040.pdf
+  url: "https://www.irs.gov/pub/irs-pdf/f1040s8.pdf"
+  retrieved_on: 2025-04-14
+  programs:
+    - federal_income_tax
+    - ctc
+  effective_date: 
+  # Optional fields
+  description: ""
