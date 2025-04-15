@@ -1,0 +1,8 @@
+- file: calculatingattachment.pdf
+  url: "https://www.hud.gov/sites/documents/calculatingattachment.pdf" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 
+  # Optional fields
+  description: "Secton 8 Income Deduction Sheet, effective date not found"
