@@ -1,0 +1,8 @@
+- file: DeductionsPDF.02.14.23
+  url: "https://www.law.cornell.edu/cfr/text/24/5.611#:~:text=(1)%20$480%20for%20each%20dependent,(b)%20Additional%20deductions." 
+  retrieved_on: 2023-02-14
+  programs:
+    - public_housing_section_8
+  effective_date: 
+  # Optional fields
+  description: "Section 8 Income Deduction Sheet"

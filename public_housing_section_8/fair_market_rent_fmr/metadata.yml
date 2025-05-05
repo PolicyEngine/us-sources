@@ -1,0 +1,152 @@
+- file: FY2009_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2009-04-10
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2010_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2009-03-10
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2011_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 
+  # Optional fields
+  description: "HUD fair market rent, effective date not available"
+
+- file: FY2012_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2011-10-01
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2013_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2013-04-30
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2014_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2014-04-18
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2015_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2015-01-12
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2016_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2015-12-15
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2017_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2017-05-01
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2018_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2018-03-22
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2019_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2019-04-15
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2020_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2020-04-10
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2021_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2021-04-01
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2022_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2022-04-09
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2023_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2023-04-19
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2024_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2024-10-01
+  # Optional fields
+  description: "HUD fair market rent"
+
+- file: FY2025_FMR.xls
+  url: "https://www.huduser.gov/portal/datasets/fmr.html" 
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2025-04-28
+  # Optional fields
+  description: "HUD fair market rent"

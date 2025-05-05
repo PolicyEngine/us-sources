@@ -1,0 +1,161 @@
+- file: FY_2009_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2009-03-15
+  # Optional fields
+  description: "Section 8 Individuals Income Limits"
+
+- file: FY_2010_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2010-05-14
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+  
+- file: FY_2011_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2011-05-31
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2012_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits, effective date not listed"
+
+- file: FY_2013_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2012-12-11
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+  
+- file: FY_2013_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2012-12-11
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2014_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2014-07-01
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2015_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2015-03-06
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2016_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2016-03-28
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2017_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2016-04-14
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2018_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2018-04-01
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2019_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2019-04-24
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2020_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2020-04-01
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2021_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2021-04-01
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2022_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2022-04-18
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2023_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2023-05-15
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2024_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2024-04-01
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
+
+- file: FY_2025_AMI.xls
+  url: "https://www.huduser.gov/portal/datasets/il.html"
+  retrieved_on: 2025-04-15
+  programs:
+    - public_housing_section_8
+  effective_date: 2025-04-01
+  # Optional fields
+  description:  "Section 8 Individuals Income Limits"
