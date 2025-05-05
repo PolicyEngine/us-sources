@@ -1,0 +1,17 @@
+- file: other_adults.csv
+  url: "https://www.kff.org/medicaid/state-indicator/medicaid-income-eligibility-limits-for-other-non-disabled-adults/" 
+  retrieved_on: 2025-04-04
+  programs:
+    - Medicaid 
+  effective_date: 2025-01-01
+  # Optional fields
+  description: "Meidcaid Income Eligibility Limits for Other Adults"
+  
+- file: parents.csv
+  url: "https://www.kff.org/medicaid/state-indicator/medicaid-income-eligibility-limits-for-parents/" 
+  retrieved_on: 2025-04-04
+  programs:
+    - Medicaid 
+  effective_date: 2025-01-01
+  # Optional fields
+  description: "Meidcaid Income Eligibility Limits for Other Adults"

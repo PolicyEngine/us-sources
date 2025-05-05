@@ -1,0 +1,8 @@
+- file: state1619b_thershold.xlsx
+  url: "https://secure.ssa.gov/poms.nsf/lnx/0502302200" 
+  retrieved_on: 2025-04-09
+  programs:
+    - Medicaid 
+  effective_date: 2025-01-29
+  # Optional fields
+  description: "Medicaid While Working State thresholds for SSI"
