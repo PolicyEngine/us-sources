@@ -1,0 +1,72 @@
+- file: COLAMemoFY2018.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/snap/SNAP_Fiscal_Year_2018_Cost_of_Living_Adjustments.pdf"
+  retrieved_on: 2025-05-07
+  programs:
+    - COLA_adjustments
+  effective_date: 2017-10-01
+  # Optional fields
+  description: "COLA Adjustments 2018"
+- file: COLAMemoFY2019.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/SNAP-COLA-FY19.pdf"
+  retrieved_on: 2025-05-07
+  programs:
+    - COLA_adjustments
+  effective_date: 2018-10-01
+  # Optional fields
+  description: "COLA Adjustments 2019"
+- file: COLAMemoFY2020.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/media/file/COLA%20Memo%20FY%202020.pdf"
+  retrieved_on: 2025-05-07
+  programs:
+    - COLA_adjustments
+  effective_date: 2019-10-01
+  # Optional fields
+  description: "COLA Adjustments 2020"
+- file: COLAMemoFY2021.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/COLAMemoFY2021.pdf"
+  retrieved_on: 2025-05-07
+  programs:
+    - COLA_adjustments
+  effective_date: 2020-10-01
+  # Optional fields
+  description: "COLA Adjustments 2021"
+- file: COLAMemoFY2022.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/2022-SNAP-COLA-%20Maximum-Allotments.pdf"
+  retrieved_on: 2025-05-07
+  programs:
+    - COLA_adjustments
+  effective_date: 2021-10-01
+  # Optional fields
+  description: "COLA Adjustments -Maximum Allotments 2022"
+- file: COLAMemoFY2022-Income-Deductions.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/COLA%20Memo%20FY2022%20Without%20Maximum%20Allotments.pdf"
+  retrieved_on: 2025-05-07
+  programs:
+    - COLA_adjustments
+  effective_date: 2021-10-01
+  # Optional fields
+  description: "COLA Adjustments - Income-Deductions 2022"
+- file: COLAMemoFY2023.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy-2023-cola-adjustments.pdf"
+  retrieved_on: 2025-05-07
+  programs:
+    - COLA_adjustments
+  effective_date: 2022-10-01
+  # Optional fields
+  description: "COLA Adjustments 2023"
+- file: COLAMemoFY2024.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/FY24-SNAP-COLA-Memo.pdf"
+  retrieved_on: 2025-05-07
+  programs:
+    - COLA_adjustments
+  effective_date: 2023-10-01
+  # Optional fields
+  description: "COLA Adjustments 2024"
+- file: COLAMemoFY2025.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-cola-fy25.pdf"
+  retrieved_on: 2025-05-07
+  programs:
+    - COLA_adjustments
+  effective_date: 2024-10-01
+  # Optional fields
+  description: "COLA Adjustments 2025"
