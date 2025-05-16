@@ -1,0 +1,32 @@
+- file: 2024 snap-benefits-8.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-benefits-5.pdf"
+  retrieved_on: 2025-05-14
+  programs:
+    - program_cost_participation
+  effective_date: 2024-12-31
+  # Optional fields
+  description: "SNAP participation-households 2024"
+- file: 2024 snap-households-8.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-households-5.pdf"
+  retrieved_on: 2025-05-14
+  programs:
+    - program_cost_participation
+  effective_date: 2024-12-31
+  # Optional fields
+  description: "SNAP participation-households 2024"
+- file: 2024 snap-persons-8.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-persons-5.pdf"
+  retrieved_on: 2025-05-14
+  programs:
+    - program_cost_participation
+  effective_date: 2024-12-31
+  # Optional fields
+  description: "SNAP participation-persons 2024"
+- file: snap-participation-cost-2022-2025.xlsx
+  url: "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Ffns-prod.azureedge.us%2Fsites%2Fdefault%2Ffiles%2Fresource-files%2Fsnap-4fymonthly-5.xlsx&wdOrigin=BROWSELINK"
+  retrieved_on: 2025-05-14
+  programs:
+    - program_cost_participation
+  effective_date: 2025-05-09
+  # Optional fields
+  description: "SNAP participation-cost 2022-2025"

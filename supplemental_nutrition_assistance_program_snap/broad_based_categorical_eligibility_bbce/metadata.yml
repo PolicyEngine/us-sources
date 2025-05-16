@@ -1,8 +1,32 @@
 - file: BBCE-States-Chart-(Jan-2023)-508-1.5.23.pdf
-  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-bbce-states-oct2024.pdf"
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/BBCE-States-Chart-(Jan-2023)-508-1.5.23.pdf"
   retrieved_on: 2025-04-23
+  programs:
+    - broad_based_categorical_eligibility_bbce
+  effective_date: 2023-10-01
+  # Optional fields
+  description: "BROAD-BASED CATEGORICAL ELIGIBILITY States 2024"
+- file: BBCE-States-Chart-Jan-2024.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-bbce-states-oct2024.pdf"
+  retrieved_on: 2025-05-05
   programs:
     - broad_based_categorical_eligibility_bbce
   effective_date: 2024-10-01
   # Optional fields
   description: "BROAD-BASED CATEGORICAL ELIGIBILITY States 2025"
+- file: Categorical-Eligibility-QandA-1-31-11.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/qanda-bbce-snap.pdf"
+  retrieved_on: 2025-05-05
+  programs:
+    - broad_based_categorical_eligibility_bbce
+  effective_date: 2011-01-11
+  # Optional fields
+  description: "BROAD-BASED CATEGORICAL ELIGIBILITY Q and A 2011"
+- file: Categorical-Eligibility-QandA-1-26-10.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/Correction%20to%20Categorical%20Eligibility%20Question%20and%20Answers.pdf"
+  retrieved_on: 2025-05-05
+  programs:
+    - broad_based_categorical_eligibility_bbce
+  effective_date: 2010-01-26
+  # Optional fields
+  description: "BROAD-BASED CATEGORICAL ELIGIBILITY Q and A 2010"
