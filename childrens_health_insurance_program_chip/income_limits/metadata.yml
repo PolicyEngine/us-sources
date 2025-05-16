@@ -1,0 +1,8 @@
+- file: childern_upper_limit.csv
+  url: "https://www.kff.org/medicaid/state-indicator/medicaidchip-upper-income-eligibility-limits-for-children/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D" 
+  retrieved_on: 2025-04-04
+  programs:
+    - Medicaid / CHIP
+  effective_date: 2025/0101
+  # Optional fields
+  description: "Income Limits for CHIP from 2000 to 2025"
