@@ -1,0 +1,8 @@
+- file: wicagencies2025ytd-5.xlsx
+  url: "https://www.fns.usda.gov/pd/wic-program"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+  effective_date: 2025-01-01
+  # Optional fields
+  description: "WIC Data Tables"

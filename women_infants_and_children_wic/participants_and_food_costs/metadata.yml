@@ -1,0 +1,72 @@
+- file: WIC Participation 26wifypart-5 2020-24.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/26wifypart-5.pdf"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - participants_and_food_costs
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "WIC Annual Participation by State 2020-24"
+- file: WICAgencies2019ytd-4.xls
+  url: "https://www.fns.usda.gov/pd/wic-program"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - participants_and_food_costs
+  effective_date: 2018-10-01
+  # Optional fields
+  description: "WIC Monthly Participation and Food Costs by State 2018-19"
+- file: WICAgencies2020ytd-4.xls
+  url: "https://www.fns.usda.gov/pd/wic-program"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - participants_and_food_costs
+  effective_date: 2019-10-01
+  # Optional fields
+  description: "WIC Monthly Participation and Food Costs by State 2019-20"
+- file: WICAgencies2021ytd-2.xlsx
+  url: "https://www.fns.usda.gov/sites/default/files/resource-files/wicagencies2021ytd-5.xlsx"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - participants_and_food_costs
+  effective_date: 2020-10-01
+  # Optional fields
+  description: "WIC Monthly Participation and Food Costs by State 2020-21"
+- file: WICAgencies2022ytd-3.xlsx
+  url: "https://www.fns.usda.gov/sites/default/files/resource-files/wicagencies2022ytd-5.xlsx"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - participants_and_food_costs
+  effective_date: 2021-10-01
+  # Optional fields
+  description: "WIC Monthly Participation and Food Costs by State 2021-22"
+- file: wicagencies2023ytd-5.xlsx
+  url: "https://www.fns.usda.gov/sites/default/files/resource-files/wicagencies2023ytd-5.xlsx"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - participants_and_food_costs
+  effective_date: 2022-10-01
+  # Optional fields
+  description: "WIC Monthly Participation and Food Costs by State 2022-23"
+- file: wicagencies2024ytd-5.xlsx
+  url: "https://www.fns.usda.gov/sites/default/files/resource-files/wicagencies2024ytd-5.xlsx"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - participants_and_food_costs
+  effective_date: 2023-10-01
+  # Optional fields
+  description: "WIC Monthly Participation and Food Costs by State 2023-24"
+- file: wicagencies2025ytd-5.xlsx
+  url: "https://www.fns.usda.gov/sites/default/files/resource-files/wicagencies2025ytd-5.xlsx"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - participants_and_food_costs
+  effective_date: 2024-10-01
+  # Optional fields
+  description: "WIC Monthly Participation and Food Costs by State 2024-25"

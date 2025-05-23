@@ -1,0 +1,72 @@
+- file: wic-2018-2019-income-eligibility-guidelines.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/wic/wic-2018-2019-income-eligibility-guidelines.pdf#page=3"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - income_limits
+  effective_date: 2018-07-01
+  # Optional fields
+  description: "WIC Income Limits 2018-19"
+- file: WIC Income Eligibility Guidelines WPM-2019-4-WICIEGs_508 2019-20.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/WPM-2019-4-WICIEGs_508.pdf#page=3"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - income_limits
+  effective_date: 2019-07-01
+  # Optional fields
+  description: "WIC Income Limits 2019-20"
+- file: WIC Income Eligibility Guidelines wic-ieg-2020-21.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/wic-ieg-2020-21.pdf"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - income_limits
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "WIC Income Limits 2020-21"
+- file: WIC Income Eligibility Guidelines WIC-Policy-Memo-2021-5-IEG 2021-22.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/WIC-Policy-Memo-2021-5-IEG.pdf#page=3"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - income_limits
+  effective_date: 2021-07-01
+  # Optional fields
+  description: "WIC Income Limits 2021-22"
+- file: WIC Income Eligibility Guidelines WIC-Policy-Memo-2022-5-IEGs 2022-23.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/WIC-Policy-Memo-2022-5-IEGs.pdf#page=3"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - income_limits
+  effective_date: 2022-07-01
+  # Optional fields
+  description: "WIC Income Limits 2022-23"
+- file: WIC Income Eligibility Guidelines wic-ieg-2023-24-memo.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/wic-ieg-2023-24-memo.pdf#page=3"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - income_limits
+  effective_date: 2023-07-01
+  # Optional fields
+  description: "WIC Income Limits 2023-24"
+- file: WIC Income Eligibility Guidelines wic-ieg-2024-25-memo.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/wic-ieg-2024-25-memo.pdf#page=3"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - income_limits
+  effective_date: 2024-07-01
+  # Optional fields
+  description: "WIC Income Limits 2024-25"
+- file: WIC Income Eligibility Guidelines 2025-03576 2025-26.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2025-03-10/pdf/2025-03576.pdf"
+  retrieved_on: 2025-05-23
+  programs:
+    - women_infants_and_children_wic
+    - income_limits
+  effective_date: 2025-07-01
+  # Optional fields
+  description: "WIC Income Limits 2025-26"
