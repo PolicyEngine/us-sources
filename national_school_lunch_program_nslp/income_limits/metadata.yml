@@ -1,0 +1,64 @@
+- file: NSLP-Income Limit -Reimbursement Rate 2019.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2019-03-20/pdf/2019-05183.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - income_limits
+    - reimbursement_rates
+  effective_date: 2019-01-01
+  # Optional fields
+  description: "NSLP Income Limits - Reimbursement Rates 2019"
+- file: NSLP-Income Limits 2020-21.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2020-03-20/pdf/2020-05982.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - income_limits
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "NSLP Income Limits - 2020"
+- file: NSLP-Income Limits 2021-22.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2021-03-04/pdf/2021-04452.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - income_limits
+  effective_date: 2021-01-01
+  # Optional fields
+  description: "NSLP Income Limits - 2021-22"
+- file: NSLP-Income Limits 2022-23.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2022-02-16/pdf/2022-03261.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - income_limits
+  effective_date: 2022-07-01
+  # Optional fields
+  description: "NSLP Income Limits - 2022-23"
+- file: NSLP-Income Limits 2023-24.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2023-02-09/pdf/2023-02739.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - income_limits
+  effective_date: 2023-07-01
+  # Optional fields
+  description: "NSLP Income Limits - 2023-24"
+- file: NSLP-Income Limits 2024-25.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2024-02-20/pdf/2024-03355.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - income_limits
+  effective_date: 2024-07-01
+  # Optional fields
+  description: "NSLP Income Limits - 2024-25"
+- file: NSLP-Income Limits 2025-26.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2025-03-13/pdf/2025-03821.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - income_limits
+  effective_date: 2025-07-01
+  # Optional fields
+  description: "NSLP Income Limits - 2025-26"

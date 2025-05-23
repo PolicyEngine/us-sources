@@ -1,0 +1,18 @@
+- file: NSLP Meals Served 05slmeals-5 2020-24.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/05slmeals-5.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - meals_served
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "NSLP Meals Served - 2020-24"
+- file: SBP Meals Served 09sbmeals-5 2020-24.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/09sbmeals-5.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - meals_served
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "School Breakfast Program Meals Served - 2020-24"

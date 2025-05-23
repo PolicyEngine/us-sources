@@ -1,0 +1,45 @@
+- file: NSLP-Reimbursement Rate 2020.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2020-07-22/pdf/2020-15764.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - reimbursement_rates
+  effective_date: 2020-01-01
+  # Optional fields
+  description: "NSLP Reimbursement Rates 2020"
+- file: NSLP-Reimbursement Rate 2021.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2021-07-16/pdf/2021-15107.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - reimbursement_rates
+  effective_date: 2021-07-01
+  # Optional fields
+  description: "NSLP Reimbursement Rates 2021"
+- file: NSLP-Reimbursement Rate 2022.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2022-07-26/pdf/2022-15892.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - reimbursement_rates
+  effective_date: 2022-07-01
+  # Optional fields
+  description: "NSLP Reimbursement Rates - 2022"
+- file: NSLP-Reimbursement Rate 2023.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2023-07-07/pdf/2023-14313.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - reimbursement_rates
+  effective_date: 2023-07-01
+  # Optional fields
+  description: "NSLP Reimbursement Rates - 2023"
+- file: NSLP-Reimbursement Rate 2024.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2024-07-10/pdf/2024-15175.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - reimbursement_rates
+  effective_date: 2024-07-01
+  # Optional fields
+  description: "NSLP Reimbursement Rates - 2024"

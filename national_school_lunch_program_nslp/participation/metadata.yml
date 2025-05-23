@@ -1,0 +1,18 @@
+- file: NSLP Participation 01slfypart-5 2020-24.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/01slfypart-5.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - participation
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "NSLP Participation - 2020-24"
+- file: SBP Participation 08sbfypart-5 2020-24.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/08sbfypart-5.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - national_school_lunch_program_nslp
+    - participation
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "School Breakfast Program Participation - 2020-24"
