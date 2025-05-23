@@ -1,8 +1,65 @@
+- file: 2019-Federal-Register-Federal-Poverty-Income-Guidelines.pdf
+  url: https://aspe.hhs.gov/sites/default/files/documents/713f8ce8345dc6885ed3ce441273191d/HHS-Poverty-Guidelines-Fed-Register-2019.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - federal_poverty_income_guidelines_fpig
+  effective_date: 2019-01-01
+  # Optional fields
+  description: "HHS Poverty Guidelines for the year 2019"
+- file: 2020-Federal-Register-Federal-Poverty-Income-Guidelines.pdf
+  url: "https://aspe.hhs.gov/sites/default/files/documents/229c8195c6e940ceaf0fb09080a00541/HHS-Poverty-Guidelines-Fed-Register-2020.pdf.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - federal_poverty_income_guidelines_fpig
+  effective_date: 2020-01-01
+  # Optional fields
+  description: "HHS Poverty Guidelines for the year 2020"
+- file: 2021-Federal-Register-Federal-Poverty-Income-Guidelines.pdf
+  url: "https://aspe.hhs.gov/sites/default/files/documents/d2eececdc1ca66dfd41ca1d2a524e076/HHS-Poverty-Guidelines-Fed-Register-2021.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - federal_poverty_income_guidelines_fpig
+  effective_date: 2021-01-01
+  # Optional fields
+  description: "HHS Poverty Guidelines for the year 2021"
+- file: 2022-Federal-Register-Federal-Poverty-Income-Guidelines.pdf
+  url: "https://aspe.hhs.gov/sites/default/files/documents/4b515876c4674466423975826ac57583/Guidelines-2022.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - federal_poverty_income_guidelines_fpig
+  effective_date: 2022-01-01
+  # Optional fields
+  description: "HHS Poverty Guidelines for the year 2022"
+- file: 2023-Federal-Poverty-Income-Guidelines.pdf
+  url: "https://aspe.hhs.gov/sites/default/files/documents/1c92a9207f3ed5915ca020d58fe77696/detailed-guidelines-2023.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - federal_poverty_income_guidelines_fpig
+  effective_date: 2023-01-01
+  # Optional fields
+  description: "HHS Poverty Guidelines for the year 2023"
+- file: 2024-Federal-Poverty-Income-Guidelines.pdf
+  url: "https://aspe.hhs.gov/sites/default/files/documents/7240229f28375f54435c5b83a3764cd1/detailed-guidelines-2024.pdf"
+  retrieved_on: 2025-05-22
+  programs:
+    - federal_poverty_income_guidelines_fpig
+  effective_date: 2024-01-01
+  # Optional fields
+  description: "HHS Poverty Guidelines for the year 2024"
 - file: ASPE_2025_poverty_guidelines.pdf
   url: "https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines"
   retrieved_on: 2025-04-02
   programs:
-    - poverty_guidelines
+    - federal_poverty_income_guidelines_fpig
   effective_date: 2025-01-01
   # Optional fields
   description: "HHS Poverty Guidelines for the year 2025"
+- file: historical-poverty-guidelines-through-2024.xlsx
+  url: "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Faspe.hhs.gov%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2F3edbd42a9b8de4f2a87211283e541ca4%2Fhistorical-poverty-guidelines-through-2024.xlsx&wdOrigin=BROWSELINK"
+  retrieved_on: 2025-05-22
+  programs:
+    - federal_poverty_income_guidelines_fpig
+  effective_date: 2024-01-01
+  # Optional fields
+  description: "HHS Poverty Guidelines for 1965-2024"
+
