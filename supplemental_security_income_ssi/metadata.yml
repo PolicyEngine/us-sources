@@ -1,0 +1,26 @@
+- file: SSI_Federal_Payment_Amounts.pdf
+  url: "https://www.ssa.gov/oact/cola/SSIamts.html" 
+  retrieved_on: 2025-05-28
+  programs:
+    - SSI
+  effective_date: 2025-01-29
+  # Optional fields
+  description: "This PDF contains all payment amounts for SSI from 1975 to 2025"
+
+  -file: SSI_Asset_limit.pdf
+  url: "https://www.ssa.gov/ssi/spotlights/spot-resources.htm#:~:text=To%20get%20SSI%2C%20your%20countable,you%20own%20do%20not%20count." 
+  retrieved_on: 2025-05-28
+  programs:
+    - SSI
+  effective_date: 1984-01-01
+  # Optional fields
+  description: "FRB ATL research indicates that the asset limit has been changed since 1984"
+
+  -file: SSI_Income_Exclusions.pdf
+  url: "https://www.ssa.gov/oact/cola/incomexcluded.html" 
+  retrieved_on: 2025-05-28
+  programs:
+    - SSI
+  effective_date: 1975-01-01
+  # Optional fields
+  description: "FRB ATL research indicates that these values havent changed since the creation of the program"
