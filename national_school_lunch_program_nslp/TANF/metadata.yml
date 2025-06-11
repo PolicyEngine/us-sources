@@ -1,0 +1,143 @@
+- file: NSLP-Income Limit -Reimbursement Rate 2019.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2019-03-20/pdf/2019-05183.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2019-01-01
+  # Optional fields
+  description: "NSLP Income Limits - Reimbursement Rates 2019"
+- file: NSLP-Reimbursement Rate 2020.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2020-07-22/pdf/2020-15764.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2020-01-01
+  # Optional fields
+  description: "NSLP Reimbursement Rates 2020"
+- file: NSLP-Reimbursement Rate 2021.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2021-07-16/pdf/2021-15107.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2021-07-01
+  # Optional fields
+  description: "NSLP Reimbursement Rates 2021"
+- file: NSLP-Reimbursement Rate 2022.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2022-07-26/pdf/2022-15892.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2022-07-01
+  # Optional fields
+  description: "NSLP Reimbursement Rates - 2022"
+- file: NSLP-Reimbursement Rate 2023.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2023-07-07/pdf/2023-14313.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2023-07-01
+  # Optional fields
+  description: "NSLP Reimbursement Rates - 2023"
+- file: NSLP-Reimbursement Rate 2024.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2024-07-10/pdf/2024-15175.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2024-07-01
+  # Optional fields
+  description: "NSLP Reimbursement Rates - 2024"
+- file: NSLP-Income Limits 2020-21.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2020-03-20/pdf/2020-05982.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "NSLP Income Limits - 2020"
+- file: NSLP-Income Limits 2021-22.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2021-03-04/pdf/2021-04452.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2021-01-01
+  # Optional fields
+  description: "NSLP Income Limits - 2021-22"
+- file: NSLP-Income Limits 2022-23.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2022-02-16/pdf/2022-03261.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2022-07-01
+  # Optional fields
+  description: "NSLP Income Limits - 2022-23"
+- file: NSLP-Income Limits 2023-24.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2023-02-09/pdf/2023-02739.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2023-07-01
+  # Optional fields
+  description: "NSLP Income Limits - 2023-24"
+- file: NSLP-Income Limits 2024-25.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2024-02-20/pdf/2024-03355.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2024-07-01
+  # Optional fields
+  description: "NSLP Income Limits - 2024-25"
+- file: NSLP-Income Limits 2025-26.pdf
+  url: "https://www.govinfo.gov/content/pkg/FR-2025-03-13/pdf/2025-03821.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2025-07-01
+  # Optional fields
+  description: "NSLP Income Limits - 2025-26"
+- file: NSLP Participation 01slfypart-5 2020-24.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/01slfypart-5.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  # Optional fields
+  description: "NSLP Participation - 2020-24"
+- file: NSLP Meals Served 05slmeals-5 2020-24.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/05slmeals-5.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "NSLP Meals Served - 2020-24"
+- file: SBP Participation 08sbfypart-5 2020-24.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/08sbfypart-5.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "School Breakfast Program Participation - 2020-24"
+- file: SBP Meals Served 09sbmeals-5 2020-24.pdf
+  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/09sbmeals-5.pdf"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+    - NC
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "School Breakfast Program Meals Served - 2020-24"
