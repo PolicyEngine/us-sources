@@ -1,0 +1,96 @@
+- file: 2018 Welfare Rules Databook (final 08 07 2019).pdf
+  url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2018-01-01
+  # Optional fields
+  description: "22018 Welfare Rules Databook (final 08 07 2019)"
+- file: 2019 Welfare Rules Databook (final 10 19 2020).pdf
+  url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2019-01-01
+  # Optional fields
+  description: "2019 Welfare Rules Databook (final 10 19 2020)"
+- file: 2020 Welfare Rules Databook (final 02 23 2022).pdf
+  url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "2020 Welfare Rules Databook (final 02 23 2022)"
+- file: 2021 Welfare Rules Databook (6 29 2023).pdf
+   url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2021-01-01
+  # Optional fields
+  description: "2021 Welfare Rules Databook (6 29 2023)"
+- file: 2022 Welfare Rules Databook (12 22 2023).pdf
+  url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2022-01-01
+  # Optional fields
+  description: "2022 Welfare Rules Databook (12 22 2023)"
+- file: 2023 Welfare-Rules-Databook-State-and-Territory-TANF-Policies-as-of-July-2023.pdf
+   url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2023-01-01
+  # Optional fields
+  description: "2023 Welfare-Rules-Databook-State-and-Territory-TANF-Policies-as-of-July-2023"
+- file: 2018 Welfare Rules Databook Tables (final 08 07 2019).xlsx
+  url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2018-01-01
+  # Optional fields
+  description: "2018 Welfare Rules Databook (final 08 07 2019)"
+- file: 2019 Welfare Rules Databook Tables (final 10 19 2020).xlsx
+  url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2019-01-01
+  # Optional fields
+  description: "2019 Welfare Rules Databook (final 10 19 2020)"
+- file: 2020 Welfare Rules Databook Tables (final 02 04 2022).xlsx
+  url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2020-07-01
+  # Optional fields
+  description: "2020 Welfare Rules Databook (final 02 23 2022)"
+- file: 2021 Welfare Rules Databook Tables (final 6 29 2023).xlsx
+   url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2021-01-01
+  # Optional fields
+  description: "2021 Welfare Rules Databook (6 29 2023)"
+- file: 2022 Welfare Rules Databook Draft Tables (12 22 2023).xlsx
+  url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2022-01-01
+  # Optional fields
+  description: "2022 Welfare Rules Databook (12 22 2023)"
+- file: 2023 Welfare Rules Databook Tables (final 12 10 2024).xlsx
+   url: "https://wrd.urban.org/welfare-rules-databook"
+  retrieved_on: 2025-06-11
+  programs:
+    - TANF
+  effective_date: 2023-01-01
+  # Optional fields
+  description: "2023 Welfare-Rules-Databook-State-and-Territory-TANF-Policies-as-of-July-2023"
