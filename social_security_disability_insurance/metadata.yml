@@ -1,0 +1,10 @@
+- file: SSDI_SGA.pdf
+  url: "https://www.ssa.gov/oact/cola/sga.html#:~:text=The%20monthly%20SGA%20amount%20for,Social%20Security%20and%20SSI%20benefits" 
+  retrieved_on: 2025-06-02
+  programs:
+    - SSDI
+  effective_date: 2025-01-01
+  # Optional fields
+  description: "This PDF contains all substantial gainful activity for SSDI from 1975 to 2025"
+
+  
