@@ -1,153 +1,90 @@
-- file: NSLP-Income Limit -Reimbursement Rate 2019.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2019-03-20/pdf/2019-05183.pdf"
-  retrieved_on: 2025-06-11
+- file: NC Child_Care_Centers_Rates_2018.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/R/Revised-8-16-Market_Rate_Centers_Eff-10-1-18.pdf?ver=2018-08-28-105655-863"
+  retrieved_on: 2025-06-24
   programs:
      - Child_Care
      - NC
-  effective_date: 2019-01-01
+  effective_date: 2018-10-01
   # Optional fields
-  description: "NSLP Income Limits - Reimbursement Rates 2019"
-- file: NSLP-Reimbursement Rate 2020.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2020-07-22/pdf/2020-15764.pdf"
-  retrieved_on: 2025-06-11
+  description: "Subsidized Child Care Market Rates for Child Care Centers 2018-19"
+- file: NC Child_Care_Centers_Rates_2022.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/C/Child_Care_Centers_Rates_2022.pdf?ver=1tlPYuEVmYXfXutOxVRMpQ%3d%3d"
+  retrieved_on: 2025-06-24
   programs:
      - Child_Care
      - NC
-  effective_date: 2020-01-01
+  effective_date: 2022-10-01
   # Optional fields
-  description: "NSLP Reimbursement Rates 2020"
-- file: nc_chapter-1-subsidized-child-care-assistance-4.pdf
+  description: "Subsidized Child Care Market Rates for Child Care Centers 2022-23"
+- file: NC Child_Care_Centers_Rates_2023.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/M/Market_Rates_Centers_Eff_10-1.pdf?ver=9w52alSPhmrmo0N9gGVMEw%3d%3d"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2023-10-01
+  # Optional fields
+  description: "Subsidized Child Care Market Rates for Child Care Centers 2023-24"
+-file: NC_Family_Child_Care_Homes_Rates_2018.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/R/Revised-8-16-Market_Rate_Homes_Eff-10-1-18.pdf?ver=2018-08-28-105655-957"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2018-10-01
+  # Optional fields
+  description: "Subsidized Child Care Market Rates for Family Child Care Homes 2018-19"
+- file: NC_Family_Child_Care_Homes_Rates_2022.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/F/Family_Child_Care_Homes_Rates_2022.pdf?ver=Gee-xAs7huqySOaKFyltqw%3d%3d"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2022-10-01
+  # Optional fields
+  description: "Subsidized Child Care Market Rates for Family Child Care Homes 2022-23"
+- file: NC_Family_Child_Care_Homes_Rates_2023.pdf
+  url: "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/M/Mkt_Rates_Homes_eff_10-1.pdf?ver=baC5Yg7ZMrQ5fck2y9CcvA%3d%3d"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2023-10-01
+  # Optional fields
+  description: "Subsidized Child Care Market Rates for Family Child Care Homes 2023-24"
+- file: NC Child Care Policy Manual Chapter 1 - Subsidized Child Care - 2023.pdf
   url: "https://policies.ncdhhs.gov/wp-content/uploads/chapter-1-subsidized-child-care-assistance-4.pdf"
   retrieved_on: 2025-06-24
   programs:
      - Child_Care
      - NC
   effective_date: 2023-09-23
-  # Optional fields
-  description: "NSLP Reimbursement Rates 2021"
-- file: NSLP-Reimbursement Rate 2022.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2022-07-26/pdf/2022-15892.pdf"
-  retrieved_on: 2025-06-11
+    # Optional fields
+  description: "Subsidized Child Care Assistance Program Policy Manual Chapter 1 - 2023"
+- file: NC Child Care Policy Manual Chapter 4 - Eligibility Determination - 2023.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/BLACK-Chapter-4-Application-eligibility-determination-and-documentation-04.02.2025.pdf"
+  retrieved_on: 2025-06-24
   programs:
      - Child_Care
      - NC
-  effective_date: 2022-07-01
-  # Optional fields
-  description: "NSLP Reimbursement Rates - 2022"
-- file: NSLP-Reimbursement Rate 2023.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2023-07-07/pdf/2023-14313.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-     - Child_Care
-     - NC
-  effective_date: 2023-07-01
-  # Optional fields
-  description: "NSLP Reimbursement Rates - 2023"
-- file: NSLP-Reimbursement Rate 2024.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2024-07-10/pdf/2024-15175.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-     - Child_Care
-     - NC
-  effective_date: 2024-07-01
-  # Optional fields
-  description: "NSLP Reimbursement Rates - 2024"
-- file: NSLP-Income Limits 2020-21.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2020-03-20/pdf/2020-05982.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-     - Child_Care
-     - NC
-  effective_date: 2020-07-01
-  # Optional fields
-  description: "NSLP Income Limits - 2020"
-- file: NSLP-Income Limits 2021-22.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2021-03-04/pdf/2021-04452.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-     - Child_Care
-     - NC
-  effective_date: 2021-01-01
-  # Optional fields
-  description: "NSLP Income Limits - 2021-22"
-- file: NSLP-Income Limits 2022-23.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2022-02-16/pdf/2022-03261.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-     - Child_Care
-     - NC
-  effective_date: 2022-07-01
-  # Optional fields
-  description: "NSLP Income Limits - 2022-23"
-- file: NSLP-Income Limits 2023-24.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2023-02-09/pdf/2023-02739.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-     - Child_Care
-     - NC
-  effective_date: 2023-07-01
-  # Optional fields
-  description: "NSLP Income Limits - 2023-24"
-- file: NSLP-Income Limits 2024-25.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2024-02-20/pdf/2024-03355.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-     - Child_Care
-     - NC
-  effective_date: 2024-07-01
-  # Optional fields
-  description: "NSLP Income Limits - 2024-25"
-- file: NSLP-Income Limits 2025-26.pdf
-  url: "https://www.govinfo.gov/content/pkg/FR-2025-03-13/pdf/2025-03821.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-     - Child_Care
-     - NC
-  effective_date: 2025-07-01
-  # Optional fields
-  description: "NSLP Income Limits - 2025-26"
-- file: NSLP Participation 01slfypart-5 2020-24.pdf
-  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/01slfypart-5.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-    - Child_Care
-    - NC
-  effective_date: 2020-07-01
-  # Optional fields
-  description: "NSLP Participation - 2020-24"
-- file: NSLP Meals Served 05slmeals-5 2020-24.pdf
-  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/05slmeals-5.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-     - Child_Care
-     - NC
-  effective_date: 2020-07-01
-  # Optional fields
-  description: "NSLP Meals Served - 2020-24"
-- file: SBP Participation 08sbfypart-5 2020-24.pdf
-  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/08sbfypart-5.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-     - Child_Care
-     - NC
-  effective_date: 2020-07-01
-  # Optional fields
-  description: "School Breakfast Program Participation - 2020-24"
-- file: SBP Meals Served 09sbmeals-5 2020-24.pdf
-  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/09sbmeals-5.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-    - Child_Care
-    - NC
-  effective_date: 2020-07-01
-  # Optional fields
-  description: "School Breakfast Program Meals Served - 2020-24"
-- file: SBP Meals Served 09sbmeals-5 2020-24.pdf
-  url: "https://fns-prod.azureedge.us/sites/default/files/resource-files/09sbmeals-5.pdf"
-  retrieved_on: 2025-06-11
-  programs:
-    - Child_Care
-    - NC
   effective_date: 2023-09-23
-  # Optional fields
-  description: "Subsidized Child Care Assistance Program Policy Manual Ch1 - 2023"
+    # Optional fields
+  description: "Subsidized Child Care Assistance Program Policy Manual Chapter 4 - 2023"
+- NC Child Care Policy Manual Chapter 7- Determining-Income-Eligibility-8_2024-BLACK.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/FINAL-Chapter-7-Family-definition-and-determining-income-eligibility-8_2024-BLACK.pdf"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2023-09-23
+    # Optional fields
+  description: "Subsidized Child Care Assistance Program Policy Manual Chapter 7 - 2023"
+- file:NC Child Care Policy Manual Chapter 8 - Parental Fees - 2023.pdf
+  url: "https://policies.ncdhhs.gov/wp-content/uploads/chapter-8-parental-fees-7.pdf"
+  retrieved_on: 2025-06-24
+  programs:
+     - Child_Care
+     - NC
+  effective_date: 2023-09-23
+    # Optional fields
+  description: "Subsidized Child Care Assistance Program Policy Manual Chapter 8 - 2023"
